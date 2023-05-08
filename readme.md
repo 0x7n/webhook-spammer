@@ -2,7 +2,7 @@
 ###### made by @0x7n
 ###### discord: limpan#4096
 
-![display of spammer](thumbnnail.png)
+![display of spammer](thumbnail.png)
 
 ## Features
 
